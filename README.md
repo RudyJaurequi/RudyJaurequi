@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSeurity Development Projects:</h2>
 
 - [Azure SIEM report](https://github.com/RudyJaurequi/AzureSIEMReport) "in progress"
-- [CTF](https://github.com/RudyJaurequi/LABURL) "not started"
+- [CTF](https://github.com/RudyJaurequi/CTF) "not started"
 
 <h3> 📃 Cyber Certifications 
 
