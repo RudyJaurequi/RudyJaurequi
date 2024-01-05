@@ -1,7 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Rudy! 
+  
+<h2>👨‍💻 CyberSeurity Development Projects:</h2>
+
+- [Azure SIEM report] (https://github.com/RudyJaurequi/LABURL) "in progress"
+- [CTF] (https://github.com/RudyJaurequi/LABURL) "not started"
+
+<h3> 📃 Cyber Certifications 
+
+  - CompTIA Seurity+
+  - CompTIA Network+
+  - CompTIA A+
+  - Google IT Support
+
+<h4>[linkedin]: https://www.linkedin.com/in/rudy-jaurequi
 
 <!--
-**RudyJaurequi/RudyJaurequi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RudyJaurequi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
