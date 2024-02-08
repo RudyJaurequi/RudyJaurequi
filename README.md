@@ -5,7 +5,8 @@
 - [Digital Forensics in Cybersecurity](https://docs.google.com/document/d/1hbAfzsWSJQyBmY7lN7qWXS8g7XBDTHsQ/edit?usp=drive_link&ouid=105448764735887368188&rtpof=true&sd=true)
 
 <h3> 📃 Cyber Certifications 
- 
+  - (ISC)2 SSCP
+  - LPI Linux Essentials
   - ITIL 4 Foundations
   - CompTIA Seurity+
   - CompTIA Network+
