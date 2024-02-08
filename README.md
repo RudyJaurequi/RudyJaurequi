@@ -4,6 +4,7 @@
 
 - [Azure SIEM report](https://github.com/RudyJaurequi/AzureSIEMReport) "in progress"
 - [CTF](https://github.com/RudyJaurequi/CTF) "not started"
+- [Digital Forensics in Cybersecurity]
 
 <h3> 📃 Cyber Certifications 
  
