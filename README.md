@@ -2,10 +2,12 @@
   
 <h2>👨‍💻 CyberSeurity Development Projects:</h2>
 
+- [Enhancing Data Security](https://docs.google.com/document/d/1zV51JBYHdC6JnBn6XZMlSFPUUaOMbWJVTjd_sAywc3c/edit?usp=drive_link)
 - [Regulations and Laws Governance over Cyber](https://docs.google.com/document/d/1pbquvIIP0Q_UC0fOveKfYUU77eImoQiz/edit?usp=drive_link&ouid=105448764735887368188&rtpof=true&sd=true)
 - [Digital Forensics in Cybersecurity](https://docs.google.com/document/d/1hbAfzsWSJQyBmY7lN7qWXS8g7XBDTHsQ/edit?usp=drive_link&ouid=105448764735887368188&rtpof=true&sd=true)
 
 <h3> 📃 Cyber Certifications 
+  
   - (ISC)2 SSCP
   - LPI Linux Essentials
   - ITIL 4 Foundations
