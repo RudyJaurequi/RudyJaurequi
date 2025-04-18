@@ -14,17 +14,16 @@
   * Implemented auto-scaling and load balancing
   * Configured VPC with public and private subnets
 
-### User Management and Secure Access
-- [AWS IAM Security Implementation](link-to-repo)
-  * Implemented least privilege access using IAM roles and policies
-  * Configured AWS Organizations for multi-account management
-  * Set up AWS SSO for centralized access management
-  * Implemented MFA enforcement and password policies
-  * Created custom IAM policies for specific service access
-  * Utilized AWS Security Hub for security posture monitoring
-  * Implemented AWS CloudTrail for audit logging
-  * Set up AWS Config for resource compliance monitoring
-  * Created IAM Access Analyzer for permission analysis
+### Securing Your Origins
+- [Securing CloudFront Origins](link-to-repo)
+  * Implemented Origin Access Identity (OAI) for S3 bucket protection
+  * Configured custom origin headers for additional security
+  * Set up WAF rules to protect against common web vulnerabilities
+  * Enabled HTTPS-only communication with origins
+  * Created custom error pages for security responses
+  * Configured origin failover for high availability
+  * Set up CloudFront Functions for request manipulation
+  * Utilized signed URLs and signed cookies for private content
 
 ### Serverless Applications
 - [Serverless Data Processing Pipeline](link-to-repo)
