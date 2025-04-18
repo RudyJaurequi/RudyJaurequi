@@ -14,11 +14,17 @@
   * Implemented auto-scaling and load balancing
   * Configured VPC with public and private subnets
 
-### Security & Compliance
-- [AWS Security Best Practices Implementation](link-to-repo)
-  * Set up AWS Organizations with multi-account strategy
-  * Implemented AWS Config and CloudTrail for audit and compliance
-  * Created IAM policies following principle of least privilege
+### User Management and Secure Access
+- [AWS IAM Security Implementation](link-to-repo)
+  * Implemented least privilege access using IAM roles and policies
+  * Configured AWS Organizations for multi-account management
+  * Set up AWS SSO for centralized access management
+  * Implemented MFA enforcement and password policies
+  * Created custom IAM policies for specific service access
+  * Utilized AWS Security Hub for security posture monitoring
+  * Implemented AWS CloudTrail for audit logging
+  * Set up AWS Config for resource compliance monitoring
+  * Created IAM Access Analyzer for permission analysis
 
 ### Serverless Applications
 - [Serverless Data Processing Pipeline](link-to-repo)
