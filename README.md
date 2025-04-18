@@ -20,7 +20,7 @@
 * Designed and deployed scalable web application using EC2, RDS, and S3
 * Implemented auto-scaling and load balancing
 * Configured VPC with public and private subnets
-* [View Project]()
+* [View Project](https://github.com/RudyJaurequi/Three-Tier-Architecture-Web-Application)
 </details>
 
 <details>
