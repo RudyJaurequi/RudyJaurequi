@@ -1,34 +1,78 @@
-<h1>Hi, I'm Rudy! 
-  
-<h2>👨‍💻 CyberSeurity Development Projects:</h2>
+# Hi, I'm Rudy! 👋
+
+## 👨‍💻 CyberSecurity Development Projects
 
 - [Enhancing Data Security](https://docs.google.com/document/d/1zV51JBYHdC6JnBn6XZMlSFPUUaOMbWJVTjd_sAywc3c/edit?usp=drive_link)
 - [Regulations and Laws Governance over Cyber](https://docs.google.com/document/d/1pbquvIIP0Q_UC0fOveKfYUU77eImoQiz/edit?usp=drive_link&ouid=105448764735887368188&rtpof=true&sd=true)
 - [Digital Forensics in Cybersecurity](https://docs.google.com/document/d/1hbAfzsWSJQyBmY7lN7qWXS8g7XBDTHsQ/edit?usp=drive_link&ouid=105448764735887368188&rtpof=true&sd=true)
 
-<h3> 📃 Cyber Certifications 
-  
-  - (ISC)2 SSCP
-  - LPI Linux Essentials
-  - ITIL 4 Foundations
-  - CompTIA Seurity+
-  - CompTIA Network+
-  - CompTIA A+
-  - Google IT Support
+## 🚀 AWS Cloud Projects
 
-<h4>[linkedin]: https://www.linkedin.com/in/rudy-jaurequi
+### Infrastructure & Deployment
+- [Three-Tier Architecture Web Application](link-to-repo)
+  * Designed and deployed a scalable web application using EC2, RDS, and S3
+  * Implemented auto-scaling and load balancing
+  * Configured VPC with public and private subnets
+
+### Security & Compliance
+- [AWS Security Best Practices Implementation](link-to-repo)
+  * Set up AWS Organizations with multi-account strategy
+  * Implemented AWS Config and CloudTrail for audit and compliance
+  * Created IAM policies following principle of least privilege
+
+### Serverless Applications
+- [Serverless Data Processing Pipeline](link-to-repo)
+  * Built ETL pipeline using Lambda, S3, and DynamoDB
+  * Implemented API Gateway for RESTful endpoints
+  * Used EventBridge for scheduling and automation
+
+### DevOps & CI/CD
+- [Automated Infrastructure Deployment](link-to-repo)
+  * Created Infrastructure as Code using CloudFormation/Terraform
+  * Set up CI/CD pipeline with AWS CodePipeline
+  * Implemented automated testing and deployment
+
+### Cost Optimization
+- [AWS Cost Optimization Project](link-to-repo)
+  * Implemented resource tagging strategy
+  * Set up AWS Cost Explorer dashboards
+  * Created automated cost alerting system
+
+## 🏅 Certifications
+
+### CompTIA Certifications
+- CompTIA CASP+
+- CompTIA CySA+
+- CompTIA PenTest+
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+
+### AWS Certifications
+- AWS Certified Solutions Architect - Professional
+- AWS Certified DevOps Engineer - Professional
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
+- AWS Certified SysOps Administrator - Associate
+- AWS Certified Cloud Practitioner
+- AWS Certified Advanced Networking - Specialty
+- AWS Certified Security - Specialty
+- AWS Certified Database - Specialty
+- AWS Certified Data Analytics - Specialty
+- AWS Certified Machine Learning - Specialty
+- AWS Certified SAP on AWS - Specialty
+
+### Other Certifications
+- (ISC)² SSCP
+- LPI Linux Essentials
+- ITIL 4 Foundations
+- Google IT Support
+
+## 🔗 Connect with Me
+[<img align="left" alt="Rudy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/rudy-jaurequi
 
 <!--
 **RudyJaurequi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
