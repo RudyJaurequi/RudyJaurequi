@@ -35,7 +35,7 @@
 * Configured origin failover for high availability
 * Set up CloudFront Functions for request manipulation
 * Utilized signed URLs and signed cookies for private content
-* [View Project](link-to-repo)
+* [View Project](https://github.com/RudyJaurequi/SecureYourOrigins/tree/main)
 </details>
 
 <details>
